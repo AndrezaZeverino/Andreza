@@ -1,6 +1,6 @@
 Hi 👋
 
-I'm Andreza Zeverino, I'm Angular Developer at Capco. I work with technology since 2021.
+I'm Andreza Zeverino, I'm an Angular Developer at Capco. I work with technology since 2021.
 <br><br>
 <a href="https://www.linkedin.com/in/andreza-zeverino/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" />
